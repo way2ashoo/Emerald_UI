@@ -22,7 +22,8 @@
 		</buildCommand>
 	</buildSpec>
 	<natures>
-		<nature>org.eclipse.jdt.core.javanature</nature>
 		<nature>org.eclipse.pde.PluginNature</nature>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+		<nature>com.ibm.rational.test.lt.core.RPTNature</nature>
 	</natures>
 </projectDescription>
