@@ -1,1 +1,1 @@
-# VBooking_UI
+# Emerald UI Tests
