@@ -35,6 +35,14 @@ Require-Bundle: com.ibm.rational.test.lt.kernel,
   org.eclipse.emf.ecore.xmi,
   org.eclipse.tptp.platform.models.hierarchy,
   org.eclipse.tptp.platform.models,
-  org.eclipse.hyades.test.core
+  org.eclipse.hyades.test.core,
+  com.ibm.rational.test.lt.execution.moeb,
+  com.ibm.rational.test.lt.core.moeb,
+  com.ibm.rational.test.rtw.webgui.selenium,
+  com.ibm.rational.test.rtw.webgui.playback.selenium,
+  com.ibm.rational.test.rtw.webgui.playback,
+  com.ibm.rational.test.rtw.webgui.execution,
+  com.hcl.products.test.webgui.browser.driver.util,
+  com.ibm.rational.test.lt.execution.http
 Automatic-Module-Name: Emerald-UI-Tests
 Bundle-RequiredExecutionEnvironment: JavaSE-1.8
